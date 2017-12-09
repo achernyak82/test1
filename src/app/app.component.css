@@ -1,0 +1,15 @@
+
+
+.toolbar-margin {
+  flex: 1 1 auto;
+  background-color: lightskyblue;
+  color: black;
+  text-align: center;
+}
+
+.button-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: lightskyblue;
+}
